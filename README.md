@@ -1,47 +1,64 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-  <a href="https://rolwinreevan.com">
-    <img alt="Gatsby" src="https://github.com/rolwin100/rolwinreevan_gatsby_blog/blob/master/src/images/icon.png" width="60" />
+  <a href="https://hurleyhuang.netlify.app/">
+    <img alt="Gatsby" src="https://raw.githubusercontent.com/HurleyJames/ImageHosting/master/icon.png" width="100" />
+    <h2 align="center">Hurley Huang</h2>
   </a>
-</p>
+</p> 
 <h1 align="center">
   Gatsby's Hurley Portfolio template
 </h1>
-<h3 align="center">Probably the most beautiful 😍 gatsby starter template</h3>
 
-This starter consists of ant design system you can use it for your personal blog. I have give a lot of time in developing this starter because I found that there were not much starters with a very good design. Please give a star to this project if you have like it to encourage me 😄. Thank you.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d897ed53-0be7-4da8-bfd1-b156c8896cef/deploy-status)](https://app.netlify.com/sites/hurleyhuang/deploys)
+![GitHub](https://img.shields.io/github/license/anuraghazra/anuraghazra.github.io)
+![Website](https://img.shields.io/website?down_message=offline&label=site&up_message=online&url=http%3A%2F%2Fanuraghazra.github.io)
 
+![Site Preview](https://raw.githubusercontent.com/HurleyJames/ImageHosting/master/preview.png)
+
+This blog is based on the [source code](https://github.com/rolwin100/rolwinreevan_gatsby_blog) of [RolwinReevan's blog](https://rolwinreevan.com/). I am very grateful 🙏 that he provided such an excellent template.
+
+*NOTE: Feel free to use this site as a template for your own portfolio site, and I would be glad if you add a link to the original site in your site.*
 
 ## 🚀 Quick start
 
-1.  **Setup the project by.**
+1.  **Clone the repo**
 
-    clone the project and install the dependencies
+    Fork the repository, then clone the project and install the dependencies
 
     ```shell
-    
     git clone https://github.com/HurleyJames/gatsby-starter-hurley.git
-    cd gatsby-starter-hurley 
+    cd gatsby-starter-hurley
     npm install
     ```
 
-1.  **Start developing.**
+2.  **Install dependencies**
 
+    cd into the directory
 
     ```shell
-    gatsby develop
+    cd gatsby-starter-hurley
+    ```
+    install the dependencies
+
+    ```shell
+    npm install
     ```
 
-1.  **Open the source code and start editing!**
+3.  **Start developing.**
 
-    Your site is now running at `http://localhost:8000`!
+    ```shell
+    gatsby develop # or npm run develop
+    ```
 
-    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
+4.  **Open the source code and start editing!**
 
+    After running the development server the site should be running at `http://localhost:8000`
+
+    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql).
 
 ## 🧐 What's inside?
 
-A quick look at the top-level files and directories you'll see in a Gatsby project.
+A quick look at the top-level files and directories of this Gatsby project.
 
     .
     ├── content
