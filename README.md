@@ -5,13 +5,10 @@
     <h2 align="center">Hurley Huang</h2>
   </a>
 </p> 
-<h1 align="center">
-  Gatsby's Hurley Portfolio template
-</h1>
+<p align="center">Gatsby's Hurley Portfolio template</p>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d897ed53-0be7-4da8-bfd1-b156c8896cef/deploy-status)](https://app.netlify.com/sites/hurleyhuang/deploys)
 ![GitHub](https://img.shields.io/github/license/anuraghazra/anuraghazra.github.io)
-![Website](https://img.shields.io/website?down_message=offline&label=site&up_message=online&url=http%3A%2F%2Fanuraghazra.github.io)
 
 ![Site Preview](https://raw.githubusercontent.com/HurleyJames/ImageHosting/master/preview.png)
 
@@ -27,8 +24,6 @@ This blog is based on the [source code](https://github.com/rolwin100/rolwinreeva
 
     ```shell
     git clone https://github.com/HurleyJames/gatsby-starter-hurley.git
-    cd gatsby-starter-hurley
-    npm install
     ```
 
 2.  **Install dependencies**
@@ -54,8 +49,7 @@ This blog is based on the [source code](https://github.com/rolwin100/rolwinreeva
 
     After running the development server the site should be running at `http://localhost:8000`
 
-    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql).
-
+    *Note: You'll also see a second link*: `http://localhost:8000/___graphql`. *This is a tool you can use to experiment with querying your data*.
 ## 🧐 What's inside?
 
 A quick look at the top-level files and directories of this Gatsby project.
