@@ -1,7 +1,7 @@
 ---
-title: Android Test
-tags: [ Android ]
-date: 2020-07-16T05:25:44.226Z
+title: Image Classification with Convolutional Neural Networks
+tags: [ AI, Python ]
+date: 2020-03-20T05:25:44.226Z
 path: blog/android-test
 cover: ./codesplitting.png
 excerpt: Suppose the bundle size of your project is very huge and you don't want to load everything at once during the initial render you can use code splitting along with React to improve the performance and load time of your application.
