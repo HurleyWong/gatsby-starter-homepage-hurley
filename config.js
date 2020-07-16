@@ -1,6 +1,6 @@
 module.exports = {
     pathPrefix: '',
-    siteUrl: 'https://rolwinreevan.com',
+    siteUrl: 'https://hurleyhuang.netlify.app/',
     siteTitle: 'Hurley Huang',
     siteDescription: 'Logbook of a software developer',
     author: 'Hurley',
@@ -21,7 +21,7 @@ module.exports = {
         instagram: 'https://www.instagram.com/hurleyhuang/',
         rss: '/rss.xml',
     },
-    contactFormUrl: process.env.CONTACT_FORM_ENDPOINT || 'https://getform.io/f/09a3066f-c638-40db-ad59-05e4ed71e451',
+    contactFormUrl: process.env.CONTACT_FORM_ENDPOINT || 'https://getform.io/f/75f0d574-50f0-4d68-a667-8112e6e70f73',
     googleAnalyticTrackingId: process.env.GA_TRACKING_ID || '',
     tags: {
         JavaScript: {
