@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's RolwinReevan Portfolio template using <a href='https://ant.design/' target='_blank'>ant-design</a>
+  Gatsby's Hurley Portfolio template
 </h1>
 <h3 align="center">Probably the most beautiful 😍 gatsby starter template</h3>
 
@@ -20,8 +20,8 @@ This starter consists of ant design system you can use it for your personal blog
 
     ```shell
     
-    git clone https://github.com/rolwin100/rolwinreevan_gatsby_blog.git
-    cd rolwinreevan_gatsby_blog 
+    git clone https://github.com/HurleyJames/gatsby-starter-hurley.git
+    cd gatsby-starter-hurley 
     npm install
     ```
 
