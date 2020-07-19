@@ -24,12 +24,17 @@ module.exports = {
     contactFormUrl: process.env.CONTACT_FORM_ENDPOINT || 'https://getform.io/f/75f0d574-50f0-4d68-a667-8112e6e70f73',
     googleAnalyticTrackingId: process.env.GA_TRACKING_ID || '',
     tags: {
+        leetcode: {
+            name: 'leetcode',
+            description: 'LeetCode is a website where people–mostly software engineers–practice their coding skills.',
+            color: '#44566c',
+        },
         JavaScript: {
             name: 'JavaScript',
             description: 'JavaScript is an object-oriented programming language used alongside HTML and CSS to give functionality to web pages.',
             color: '#44566c',
         },
-        nodejs: {
+        Nodejs: {
             name: 'Node.js',
             description: 'Node.js is a tool for executing JavaScript in a variety of environments.',
             color: '#44566c',
