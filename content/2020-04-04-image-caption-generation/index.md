@@ -710,7 +710,7 @@ for j in range(2):
 plt.show()
 ```
 
-<img src="https://raw.githubusercontent.com/HurleyJames/ImageHosting/master/Snipaste_2020-04-10_11-41-29.png" with="100%" />
+<img src="https://raw.githubusercontent.com/HurleyJames/ImageHosting/master/Snipaste_2020-04-10_11-41-29.png" width="100%" />
 
 #### Get BLEU Scores of RNN
 

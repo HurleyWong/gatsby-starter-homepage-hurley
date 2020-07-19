@@ -42,7 +42,7 @@ module.exports = [
                     resolve: 'gatsby-remark-images',
                     options: {
                         maxWidth: 1000,
-                        quality: 80,
+                        quality: 100,
                         showCaptions: true,
                         linkImagesToOriginal: false,
                     },
@@ -53,7 +53,13 @@ module.exports = [
                         rel: 'nofollow',
                     },
                 },
-                'gatsby-remark-prismjs',
+                {
+                    resolve: 'gatsby-remark-prismjs',
+                    options: {
+                        inlineCodeMarker: null,
+                        showLineNumbers: true,
+                    },
+                },
             ],
         },
     },
