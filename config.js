@@ -34,8 +34,8 @@ module.exports = {
             description: 'JavaScript is an object-oriented programming language used alongside HTML and CSS to give functionality to web pages.',
             color: '#44566c',
         },
-        Nodejs: {
-            name: 'Node.js',
+        nodejs: {
+            name: 'nodejs',
             description: 'Node.js is a tool for executing JavaScript in a variety of environments.',
             color: '#44566c',
         },
