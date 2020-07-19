@@ -2,7 +2,7 @@ module.exports = {
     pathPrefix: '',
     siteUrl: 'https://hurleyhuang.netlify.app/',
     siteTitle: 'Hurley Huang',
-    siteDescription: 'Logbook of a software developer',
+    siteDescription: '',
     author: 'Hurley',
     postsForArchivePage: 3,
     defaultLanguage: 'en',
