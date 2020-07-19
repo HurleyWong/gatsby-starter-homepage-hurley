@@ -2,9 +2,9 @@
 title: Image Caption Generation
 tags: [ AI, Python ]
 date: 2020-04-08T06:25:44.226Z
-path: blog/java-test
-cover: ./codesplitting.png
-excerpt: Suppose the bundle size of your project is very huge and you don't want to load everything at once during the initial render you can use code splitting along with React to improve the performance and load time of your application.
+path: blog/image-caption-generation
+cover: ./image-caption-generation.png
+excerpt: Do text pre-processing and text embeddings with an image to text model, compare the performance and usage of RNNs versus LSTMs as sequence generators.
 ---
 
 ### Dataset download
@@ -710,7 +710,7 @@ for j in range(2):
 plt.show()
 ```
 
-![](https://raw.githubusercontent.com/HurleyJames/ImageHosting/master/Snipaste_2020-04-10_11-41-29.png)
+<img src="https://raw.githubusercontent.com/HurleyJames/ImageHosting/master/Snipaste_2020-04-10_11-41-29.png" with="100%" />
 
 #### Get BLEU Scores of RNN
 
@@ -728,4 +728,4 @@ The full code can be viewed in Github: [Image_Caption_Generation.ipynb](https://
 
 [1] M. Hodosh, P. Young and J. Hockenmaier (2013) "Framing Image Description as a Ranking Task: Data, Models and Evaluation Metrics", Journal of Artifical Intellegence Research, Volume 47, pages 853-899 (http://www.jair.org/papers/paper3994.html)
 
-[2] [A Gentle Introduction to Calculating the BELU Score for Text in Python](
+[2] [A Gentle Introduction to Calculating the BELU Score for Text in Python](https://machinelearningmastery.com/calculate-bleu-score-for-text-python/)
