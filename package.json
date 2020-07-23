@@ -1,5 +1,5 @@
 {
-    "name": "hurley_gatsby_blog",
+    "name": "hurley_gatsby_starter",
     "private": true,
     "description": "a beautiful gatsby template",
     "version": "1.0.0",
@@ -62,6 +62,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/rolwin100/rolwinreevan_gatsby_blog"
+        "url": "https://github.com/HurleyJames/gatsby-starter-hurley"
     }
 }

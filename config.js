@@ -9,7 +9,7 @@ module.exports = {
     disqusScript: process.env.DISQUS_SCRIPT || 'https://hurleyjames.disqus.com/embed.js',
     pages: {
         home: '/',
-        blog: 'blog',
+        project: 'project',
         contact: 'contact',
         resume: 'resume',
         tag: 'tags',
