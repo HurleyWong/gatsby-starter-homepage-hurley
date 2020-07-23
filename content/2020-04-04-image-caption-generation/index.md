@@ -2,7 +2,8 @@
 title: Image Caption Generation
 tags: [ AI, Python ]
 date: 2020-04-08T06:25:44.226Z
-path: blog/image-caption-generation
+path: project/image-caption-generation
+slug: image-caption-generation
 cover: ./image-caption-generation.png
 excerpt: Do text pre-processing and text embeddings with an image to text model, compare the performance and usage of RNNs versus LSTMs as sequence generators.
 ---
