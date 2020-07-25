@@ -49,6 +49,11 @@ module.exports = {
             description: 'React is an open source JavaScript library used for designing user interfaces.',
             color: '#44566c',
         },
+        Vue: {
+            name: 'Vue',
+            description: 'Vue.js is an open-source model–view–viewmodel JavaScript framework for building user interfaces and single-page applications.',
+            color: '#44566c',
+        },
         html: {
             name: 'HTML',
             description: 'A markup language that powers the web. All websites use HTML for structuring the content.',

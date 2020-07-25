@@ -6,11 +6,12 @@ import SEO from '../../Seo';
 
 const pageText = {
   paraOne: `Hey 👋 <b>&nbsp;</b> I'm <b>Hurley Huang</b>!`,
-  paraTwo: `I am currently 🎓 <b>&nbsp;</b> a student at 🇬🇧 <b>&nbsp;</b> <a href="https://www.leeds.ac.uk/">University of Leeds</a>, <i>MSc in Advanced Computer Science (Artificial Intelligence)</i>.`,
-  paraThree: `Love ❤ <b>&nbsp;</b> the 📱 <b>mobile development</b> and the 💻 <b>&nbsp;</b> <b>front-end development</b>, mostly writing via Markdown and LaTex.`,
+  paraTwo: `💼 <b>&nbsp; <a href="https://hurleyhuang.netlify.app/">Portfolio</a></b> / 👨🏻‍💻 <b>&nbsp; <a href="https://tech-hurley.netlify.app/">Tech Site</a></b> / 📝 <b>&nbsp; <a href="https://hurleyjames.github.io/">Blog</a></b>`,
+  paraThree: `I am currently 🎓 <b>&nbsp;</b> a student at 🇬🇧 <b>&nbsp;</b> <a href="https://www.leeds.ac.uk/">University of Leeds</a>, <i><a href="https://courses.leeds.ac.uk/i537/advanced-computer-science-artificial-intelligence-msc">MSc in Advanced Computer Science (Artificial Intelligence)</a></i>.`,
+  paraFour: `Love ❤ <b>&nbsp;</b> the 📱 <b>mobile development</b> and the 💻 <b>&nbsp;</b> <b>front-end development</b>, mostly writing via Markdown and LaTex.`,
 };
 const AboutMe = () => {
-  const description = `${pageText.paraOne} ${stripTags(pageText.paraTwo)} ${stripTags(pageText.paraThree)}`;
+  const description = `${pageText.paraOne} ${stripTags(pageText.paraTwo)} ${stripTags(pageText.paraThree)} ${stripTags(pageText.paraFour)}`;
   return (
     <>
       <div>
@@ -24,6 +25,7 @@ const AboutMe = () => {
         <p dangerouslySetInnerHTML={domHtml(pageText.paraOne)} />
         <p dangerouslySetInnerHTML={domHtml(pageText.paraTwo)} />
         <p dangerouslySetInnerHTML={domHtml(pageText.paraThree)} />
+        <p dangerouslySetInnerHTML={domHtml(pageText.paraFour)} />
       </div>
       <Row gutter={[20, 20]}>
         <Col xs={24} sm={24} md={12} lg={8}>
