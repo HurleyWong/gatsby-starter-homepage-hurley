@@ -12,7 +12,7 @@ excerpt: A blog template based on Gridsome and Vue.js.
 
 This portfolio is developed and designed by [Spencer Wooo](https://github.com/spencerwooo/blog) and Gridsome's official template [gridsome-starter-blog](https://github.com/gridsome/gridsome-starter-blog). Thanks for their excellent blog templates.
 
-The source code is at [gridsome-blog-starter-hurley](https://github.com/HurleyJames/gridsome-blog-starter-hurley).
+The source code is at [gridsome-starter-blog-hurley](https://github.com/HurleyJames/gridsome-starter-blog-hurley).
 
 ## Install Locally
 
