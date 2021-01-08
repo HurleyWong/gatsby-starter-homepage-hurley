@@ -6,7 +6,7 @@ import SEO from '../../Seo';
 
 const pageText = {
   paraOne: `Hey 👋 <b>&nbsp;</b> I'm <b>Hurley Huang</b>!`,
-  paraTwo: `💼 <b>&nbsp; <a href="https://hurley.fun">Portfolio</a></b> / 👨🏻‍💻 <b>&nbsp; <a href="https://tech-hurley.netlify.app/">Tech Site</a></b> / 📝 <b>&nbsp; <a href="https://hurleyjames.github.io/">Blog</a></b>`,
+  paraTwo: `💼 <b>&nbsp; <a href="https://hurley.fun">Portfolio</a></b> / 👨🏻‍💻 <b>&nbsp; <a href="https://tech.hurley.fun/">Tech Site</a></b> / 📝 <b>&nbsp; <a href="https://blog.hurley.fun/">Blog</a></b>`,
   paraThree: `I am currently a student at 🇬🇧 <b>&nbsp;</b> <a href="https://www.leeds.ac.uk/">University of Leeds</a>, <i><a href="https://courses.leeds.ac.uk/i537/advanced-computer-science-artificial-intelligence-msc">MSc in Advanced Computer Science (Artificial Intelligence)</a></i>.`,
   paraFour: `Love the <b>mobile development</b> and the <b>front-end development</b>, prefer Markdown and LaTeX.`,
 };
