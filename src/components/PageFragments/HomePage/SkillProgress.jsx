@@ -36,7 +36,7 @@ const SkillsProgress = () => (
         />
         <ProgressBar
           percent={40}
-          text="Flutter"
+          text="Shell"
         />
         <ProgressBar
           percent={30}
