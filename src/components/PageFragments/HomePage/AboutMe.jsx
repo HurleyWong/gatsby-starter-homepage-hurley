@@ -49,7 +49,7 @@ const AboutMe = () => {
           <AboutTile
             img="postgraduate.png"
             alt="postgraduate image"
-            textH4="Studying at UOL, MSc in"
+            textH4="Studying at UoL, MSc in"
             textH3="Advanced Computer Science"
           />
         </Col>
