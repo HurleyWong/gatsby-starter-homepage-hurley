@@ -50,7 +50,7 @@ const DomContent = () => (
           <span><FeatherIcon size="19" icon="mail" /></span>
           {' '}
 &nbsp; &nbsp;
-          <span className={style.emailHider}>@</span>
+          <span className={style.emailHider}>hurleyhuang@hotmail.com</span>
         </li>
       </ul>
       {/* <div className={style.resumeDownload}>
