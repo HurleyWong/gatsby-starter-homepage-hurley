@@ -1,18 +1,18 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-  <a href="https://hurleyhuang.netlify.app/">
+  <a href="https://withh.life/">
     <img alt="Gatsby" src="https://raw.githubusercontent.com/HurleyJames/ImageHosting/master/icon.png" width="100" />
     <h2 align="center">Hurley Huang</h2>
   </a>
 </p> 
-<p align="center">Gatsby's Hurley Portfolio template</p>
+<p align="center">Gatsby's Hurley Homepage template</p>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d897ed53-0be7-4da8-bfd1-b156c8896cef/deploy-status)](https://app.netlify.com/sites/hurleyhuang/deploys)
 ![GitHub](https://img.shields.io/github/license/anuraghazra/anuraghazra.github.io)
 
 ![Site Preview](https://raw.githubusercontent.com/HurleyJames/ImageHosting/master/preview.png)
 
-This blog is based on the [source code](https://github.com/rolwin100/rolwinreevan_gatsby_blog) of [RolwinReevan's blog](https://rolwinreevan.com/). I am very grateful 🙏 that he provided such an excellent template.
+This homepage is based on the [source code](https://github.com/rolwin100/rolwinreevan_gatsby_blog) of [RolwinReevan's blog](https://rolwinreevan.com/). I am very grateful 🙏 that he provided such an excellent template.
 
 *NOTE: Feel free to use this site as a template for your own portfolio site, and I would be glad if you add a link to the original site in your site.*
 
