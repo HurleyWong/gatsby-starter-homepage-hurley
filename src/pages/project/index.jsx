@@ -4,7 +4,7 @@ import { graphql } from 'gatsby';
 import { Layout, Row, Col } from 'antd';
 import Header from '../../components/PageLayout/Header';
 
-import "katex/dist/katex.min.css"
+import 'katex/dist/katex.min.css';
 
 import SidebarWrapper from '../../components/PageLayout/Sidebar';
 import PostCard from '../../components/PostCard';
@@ -17,7 +17,7 @@ const Project = ({ data }) => (
       <SEO
         title="Project"
         description="I like blogging about various web technologies and other stuff related to
-          javascript and other trends like graphql, prisma etc. This blog expresses my views of various technologies
+          javascript and other trends like graphql, prism etc. This blog expresses my views of various technologies
           and scenarios I have come across in realtime."
         path="project"
       />

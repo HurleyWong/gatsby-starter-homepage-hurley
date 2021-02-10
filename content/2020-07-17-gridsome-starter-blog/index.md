@@ -1,5 +1,5 @@
 ---
-title: Gridsome Starter Blog
+title: Gridsome Starter Article Blog
 tags: [ Vue ]
 date: 2020-07-17T06:25:44.226Z
 path: project/gridsome-starter-blog
@@ -10,7 +10,7 @@ excerpt: A blog template based on Gridsome and Vue.js.
 
 ## Source Code
 
-This portfolio is developed and designed by [Spencer Wooo](https://github.com/spencerwooo/blog) and Gridsome's official template [gridsome-starter-blog](https://github.com/gridsome/gridsome-starter-blog). Thanks for their excellent blog templates.
+This article blog is developed and designed by [Spencer Wooo](https://github.com/spencerwooo/blog) and Gridsome's official template [gridsome-starter-blog](https://github.com/gridsome/gridsome-starter-blog). Thanks for their excellent blog templates.
 
 The source code is at [gridsome-starter-blog-hurley](https://github.com/HurleyJames/gridsome-starter-blog-hurley).
 
@@ -38,4 +38,4 @@ yarn prettier
 
 ---
 
-**Hurley's tech-blog** ©Hurley. Released under the MIT License.
+**Hurley's Article Blog** ©Hurley. Released under the MIT License.

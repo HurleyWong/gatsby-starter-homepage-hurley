@@ -1,10 +1,10 @@
 ---
-title: Gatsby Starter Portfolio
+title: Gatsby Starter Homepage
 tags: [ React ]
 date: 2020-07-16T06:25:44.226Z
-path: project/gatsby-starter-portfolio
-slug: gatsby-starter-portfolio
-cover: ./gatsby-starter-portfolio.png
+path: project/gatsby-starter-homepage
+slug: gatsby-starter-homepage
+cover: ./gatsby-starter-homepage.png
 excerpt: A blog template based on Gatsby.js and React.
 ---
 
@@ -12,7 +12,7 @@ excerpt: A blog template based on Gatsby.js and React.
 
 This blog is based on the [source code](https://github.com/rolwin100/rolwinreevan_gatsby_blog) of [RolwinReevan's blog](https://rolwinreevan.com/). I am very grateful that he provided such an excellent template.
 
-The source code is at [gatsby-starter-portfolio-hurley](https://github.com/HurleyJames/gatsby-starter-portfolio-hurley).
+The source code is at [gatsby-starter-homepage-hurley](https://github.com/HurleyJames/gatsby-starter-homepage-hurley).
 
 ## 🚀 Quick start
 
@@ -102,4 +102,4 @@ A quick look at the top-level files and directories of this Gatsby project.
 
 ---
 
-**Hurley's portfolio** ©Hurley. Released under the MIT License.
+**Hurley's homepage** ©Hurley. Released under the MIT License.

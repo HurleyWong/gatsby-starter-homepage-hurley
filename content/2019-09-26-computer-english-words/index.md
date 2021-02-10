@@ -7,3 +7,13 @@ slug: computer-english-words
 cover: ./computer-english-words.png
 excerpt: 计算机专业术语英文词汇。
 ---
+
+## 分类
+* [云计算]
+* [分布式系统]
+* [区块链]
+* [图论]
+* [大数据]
+* [数据挖掘]
+* [机器学习]
+* [线性代数]

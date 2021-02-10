@@ -5,7 +5,7 @@ import { stripTags, domHtml } from '../../../utils/stripTags';
 import SEO from '../../Seo';
 
 const pageText = {
-  paraOne: 'Hey <b>&nbsp;</b> 👋 <b>&nbsp;</b> I\'m <b>Hurley Huang</b>! <b>&nbsp;</b> This is my Homepage.',
+  paraOne: 'Hey <b>&nbsp;</b> 👋 <b>&nbsp;</b> I\'m <b>Hurley Huang</b>! This is my Homepage.',
   paraTwo: '💼 <a href="https://portfolio.withh.life">Portfolio</a></b> / 👨🏻‍💻 <a href="https://article.withh.life/">Article</a></b> / 📝 <a href="https://blog.withh.life/">Blog</a></b>',
   paraThree: 'I am currently a student at 🇬🇧 <a href="https://www.leeds.ac.uk/">University of Leeds</a>, <i><a href="https://courses.leeds.ac.uk/i537/advanced-computer-science-artificial-intelligence-msc">MSc in Advanced Computer Science (Artificial Intelligence)</a></i>.',
   paraFour: 'Love the <b>mobile development</b> and the <b>front-end development</b>, prefer Markdown and LaTeX.',
