@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://withh.life/">
-    <img alt="Gatsby" src="https://i.loli.net/2021/02/21/BU7pQGD18vzLsT4.png" idth="100" />
+    <img alt="Gatsby" src="https://i.loli.net/2021/02/21/pmOA5wLDnsgktUc.jpg" width="100" />
     <h2 align="center">Hurley Huang</h2>
   </a>
 </p> 
@@ -10,7 +10,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d897ed53-0be7-4da8-bfd1-b156c8896cef/deploy-status)](https://app.netlify.com/sites/hurleyhuang/deploys)
 ![GitHub](https://img.shields.io/github/license/anuraghazra/anuraghazra.github.io)
 
-![Site Preview](https://raw.githubusercontent.com/HurleyJames/ImageHosting/master/preview.png)
+![Site Preview](https://i.loli.net/2021/02/21/BU7pQGD18vzLsT4.png)
 
 This homepage is based on the [source code](https://github.com/rolwin100/rolwinreevan_gatsby_blog) of [RolwinReevan's blog](https://rolwinreevan.com/). I am very grateful 🙏 that he provided such an excellent template.
 
