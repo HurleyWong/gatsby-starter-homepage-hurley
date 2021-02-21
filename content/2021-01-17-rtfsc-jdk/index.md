@@ -1,6 +1,6 @@
 ---
 title: RTFSC-JDK
-tags: [ iOS ]
+tags: [ Java ]
 date: 2021-01-17T06:25:44.226Z
 path: project/rtfsc-jdk
 slug: rtfsc-jdk
