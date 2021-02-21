@@ -1,6 +1,6 @@
 ---
 title: TailwindCSS Vue Components
-tags: [ TailwindCSS ]
+tags: [ Tailwind ]
 date: 2021-01-27T06:25:44.226Z
 path: project/tailwind-css-vue
 slug: tailwind-css-vue
