@@ -106,33 +106,33 @@ module.exports = {
     },
     Tailwind: {
       name: 'Tailwind',
-      description: 'A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.',
-      color: '#05B6D4',
+      description: 'A utility-first CSS framework',
+      color: '#44566c',
     },
     VuePress: {
       name: 'VuePress',
       description: 'VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.',
-      color: '#3DAF7C',
+      color: '#44566c',
     },
     Script: {
       name: 'Script',
       description: 'A computer program commonly run in an interpreter',
-      color: '#326FA3',
+      color: '#44566c',
     },
     Icon: {
       name: 'Icon',
-      description: '',
-      color: '#326FA3',
+      description: 'Icon collection',
+      color: '#44566c',
     },
     iOS: {
       name: 'iOS',
       description: 'An operating system used for mobile devices manufactured by Apple Inc.',
-      color: '#FD0B29',
+      color: '#44566c',
     },
     Visualization: {
       name: 'Visualization',
       description: 'the representation of an object, situation, or set of information as a chart or other image.',
-      color: '#40BAEE',
+      color: '#44566c',
     },
   },
 };
