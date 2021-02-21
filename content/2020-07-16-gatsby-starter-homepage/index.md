@@ -48,6 +48,7 @@ The source code is at [gatsby-starter-homepage-hurley](https://github.com/Hurley
     After running the development server the site should be running at `http://localhost:8000`
 
     *Note: You'll also see a second link*: `http://localhost:8000/___graphql`. *This is a tool you can use to experiment with querying your data*.
+
 ## 🧐 What's inside?
 
 A quick look at the top-level files and directories of this Gatsby project.
