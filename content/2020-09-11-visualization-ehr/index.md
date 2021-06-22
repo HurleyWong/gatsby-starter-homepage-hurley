@@ -28,4 +28,4 @@ The aim of this project is to investigate effective visualization techniques for
 
 ## Source Code
 
-Available at: https://github.com/HurleyJames/Visualization-EHRs.
+Available at: https://github.com/HurleyWong/Visualization-EHRs.

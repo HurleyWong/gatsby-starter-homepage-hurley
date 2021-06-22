@@ -65,4 +65,4 @@ A quick look at the files and directories of this Golid project.
 
 ## Source Code
 
-Available at: https://github.com/HurleyJames/Golid.
+Available at: https://github.com/HurleyWong/Golid.

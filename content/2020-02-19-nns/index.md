@@ -12,9 +12,9 @@ excerpt: The NLP and CV exercises by different ANNs (CNN, RNN, GAN, .etc).
 * Intro_to_PyTorch.ipynb: The purpose of this notebook is to give you a general understanding of how to use the [PyTorch](https://pytorch.org/) Python package for writing, training and analysing neural networks.
 * Linear_Classifier.ipynb: Train a multiclass linear classifier on the CIFAR10 dataset in [Keras](https://keras.io/).
 * Using_Word2Vec_Embeddings.ipynb: News Category Classification using Word2Vec embeddings with two Python libraries, [scikit-learn](https://scikit-learn.org/stable/) and [gensim](https://radimrehurek.com/gensim/).
-* Image_Classification_with_Convolutional_Neural_Networks_ImageNet10.ipynb: Use convolutional neural networks, from development to training and testing. Plot feature maps and filters during the training process and testing. Explore methods of improving performance on a network. The details can be found in this article [Image Classification with Convolutional Neural Networks - ImageNet10](https://hurleyjames.github.io/2020/03/20/Image-Classification-with-Convolutional-Neural-Networks---ImageNet10/).
+* Image_Classification_with_Convolutional_Neural_Networks_ImageNet10.ipynb: Use convolutional neural networks, from development to training and testing. Plot feature maps and filters during the training process and testing. Explore methods of improving performance on a network. The details can be found in this article [Image Classification with Convolutional Neural Networks - ImageNet10](https://blog.withh.life/2020/03/image-classification-cnn/).
 * [Image Caption Generation](Image_Caption_Generation.ipynb): Do text pre-processing and text embeddings with an image to text model, compare the performance and usage of RNNs versus LSTMs as sequence generators.
-* Perceptron: Compare a simple perceptron and a simple network built by myself to a network model by Keras. The details can be found in this article [Perceptron Algorithm and Backpropagation](https://hurleyjames.github.io/2020/04/23/Perceptron-Algorithm-and-Backpropagation/#introduction).
+* Perceptron: Compare a simple perceptron and a simple network built by myself to a network model by Keras. The details can be found in this article [Perceptron Algorithm and Backpropagation](https://blog.withh.life/2020/04/iris-perceptron-backpropagation/).
 
 ### Training and test dataset
 * [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html): The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
@@ -33,7 +33,7 @@ As for .py files in the Perceptron folder, especially the perceptron.py. You hav
 
 ## Source Code
 
-Available at: https://github.com/HurleyJames/NNs.
+Available at: https://github.com/HurleyWong/NNs.
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>

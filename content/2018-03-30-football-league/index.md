@@ -26,4 +26,4 @@ excerpt: 使用 Springboot + Thymeleaf + Layui + MySQL 开发的足球联赛管�
 
 ## Source Code
 
-Available at: https://github.com/HurleyJames/FootballLeague.
+Available at: https://github.com/NCHUSC/FootballLeague.

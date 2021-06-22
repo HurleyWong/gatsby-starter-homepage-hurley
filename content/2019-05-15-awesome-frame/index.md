@@ -44,4 +44,4 @@ AwesomeFrame 是一款聚集了目前安卓开发中常用的流行UI框架的�
 
 ## Source Code
 
-Available at: https://github.com/HurleyJames/AwesomeFrame.
+Available at: https://github.com/HurleyWong/AwesomeFrame.

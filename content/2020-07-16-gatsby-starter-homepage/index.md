@@ -12,7 +12,7 @@ excerpt: A blog template based on Gatsby.js and React.
 
 This blog is based on the [source code](https://github.com/rolwin100/rolwinreevan_gatsby_blog) of [RolwinReevan's blog](https://rolwinreevan.com/). I am very grateful that he provided such an excellent template.
 
-The source code is at [gatsby-starter-homepage-hurley](https://github.com/HurleyJames/gatsby-starter-homepage-hurley).
+The source code is at [gatsby-starter-homepage-hurley](https://github.com/HurleyWong/gatsby-starter-homepage-hurley).
 
 ## 🚀 Quick start
 
@@ -21,7 +21,7 @@ The source code is at [gatsby-starter-homepage-hurley](https://github.com/Hurley
     Fork the repository, then clone the project and install the dependencies
 
     ```shell
-    git clone https://github.com/HurleyJames/gatsby-starter-hurley.git
+    git clone https://github.com/HurleyWong/gatsby-starter-hurley.git
     ```
 
 2.  **Install dependencies**

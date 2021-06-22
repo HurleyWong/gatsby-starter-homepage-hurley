@@ -17,13 +17,14 @@ excerpt: 火车时刻表是一款可以根据车站和车次来查询火车运�
 5. 未来功能：目前想法是增加各个局部地区的高铁高清线路图，以及增加一个添加收集火车票的功能。因为我个人是个火车迷，也收集了我每次乘车的火车票，我希望做一个通过录入信息或者扫描的方式收集火车票的功能，希望广大火车迷或者收藏迷能够喜欢。
 
 ## Technology
+
 * 使用 MVP 模式
 * 使用 OkHttp + Gson + ButterKnife 等框架开发
 
 ## Screenshot
 
-<img src="https://raw.githubusercontent.com/HurleyJames/ImageHosting/master/IMG_3560.JPG" width="100%" />
+<img src="https://i.loli.net/2021/02/21/KEYzNm1gR29ZAjn.jpg" width="100%" />
 
 ## Source Code
 
-Available at: https://github.com/HurleyJames/TrainSchedule.
+Available at: https://github.com/HurleyWong/TrainSchedule.

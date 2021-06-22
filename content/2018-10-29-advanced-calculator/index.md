@@ -16,10 +16,6 @@ excerpt: 高级计算器是一款提供简单计算、汇率换算和亲戚关�
 
 其中基础数字计算的算法采用的是**中缀转后缀表达式**的算法。
 
-## Screenshot
-
-<img src="https://raw.githubusercontent.com/HurleyJames/ImageHosting/master/IMG_3564.JPG" width="100%" />
-
 ## Source Code
 
-Available at: https://github.com/HurleyJames/AdvancedCalculator.
+Available at: https://github.com/HurleyWong/AdvancedCalculator.

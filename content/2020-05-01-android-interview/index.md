@@ -18,4 +18,4 @@ excerpt: 在复习 Android 内容时，发现很多内容如果只是死背概�
 
 于是本项目就破壳诞生啦👏 🎉 🥳
 
-Available at: https://github.com/HurleyJames/AI.
+Available at: https://github.com/HurleyWong/AI.

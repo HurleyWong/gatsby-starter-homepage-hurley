@@ -13,14 +13,14 @@ excerpt: CodeHub 是一款使用 WanAndroid、Readhub 以及 Gank.io 三者 api 
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/HurleyJames/ImageHosting/master/IMG_3556.JPG" width="100%" />
+<img src="https://i.loli.net/2021/03/23/DxCQuOFvwkYbSfP.jpg" width="100%" />
 
 ## Features
 * WanAndroid、Readhub 与 Gank.io 的内容。
 * 基于 MVP 模式开发。
 
 ## Issues
-如果有任何问题，请在该repository的 [Issues](https://github.com/HurleyJames/CodeHub/issues) 处发布 issue，或者通过最底部的联系方式联系我，我会及时提供帮助或改进。
+如果有任何问题，请在该repository的 [Issues](https://github.com/HurleyWong/CodeHub/issues) 处发布 issue，或者通过最底部的联系方式联系我，我会及时提供帮助或改进。
 
 ## Thanks
  - 最开始是只想根据[玩安卓](https://www.wanandroid.com/)开发的 api 开发一个 WanAndroid 客户端，后来在完成之后又决定根据 [Readhub](https://readhub.cn) 以及 [Gank.io](https://gank.io) 的 api 共同组成一个获取移动端开发者技术的客户端 CodeHub。
@@ -30,4 +30,4 @@ excerpt: CodeHub 是一款使用 WanAndroid、Readhub 以及 Gank.io 三者 api 
 
 ## Source Code
 
-Available at: https://github.com/HurleyJames/CodeHub.
+Available at: https://github.com/HurleyWong/CodeHub.

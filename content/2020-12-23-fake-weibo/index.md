@@ -31,4 +31,4 @@ excerpt: iOS SwiftUI 开发入门 仿微博 App 项目实战
 
 ## Source Code
 
-Available at: https://github.com/HurleyJames/FakeWeibo.
+Available at: https://github.com/HurleyWong/FakeWeibo.

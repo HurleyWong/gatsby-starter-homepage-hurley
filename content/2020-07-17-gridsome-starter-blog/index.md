@@ -12,7 +12,7 @@ excerpt: A blog template based on Gridsome and Vue.js.
 
 This article blog is developed and designed by [Spencer Wooo](https://github.com/spencerwooo/blog) and Gridsome's official template [gridsome-starter-blog](https://github.com/gridsome/gridsome-starter-blog). Thanks for their excellent blog templates.
 
-The source code is at [gridsome-starter-blog-hurley](https://github.com/HurleyJames/gridsome-starter-blog-hurley).
+The source code is at [gridsome-starter-blog-hurley](https://github.com/HurleyWong/gridsome-starter-blog-hurley).
 
 ## Install Locally
 
@@ -24,7 +24,7 @@ npm install --global @gridsome/cli
 
 ### 2. Install this blog starter
 
-1. `gridsome create your-own-name https://github.com/HurleyJames/gridsome-blog-starter-hurley`
+1. `gridsome create your-own-name https://github.com/HurleyWong/gridsome-blog-starter-hurley`
 2. `cd your-own-name` to open folder
 3. `gridsome develop` to start local dev server at http://localhost:8080
 4. Prettier by `yarn prettier`

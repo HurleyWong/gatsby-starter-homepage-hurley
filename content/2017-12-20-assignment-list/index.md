@@ -17,4 +17,4 @@ excerpt: 作业清单，是一款备忘作业的提醒工具，可以将课堂�
 
 ## Source Code
 
-Available at: https://github.com/HurleyJames/AssignmentList.
+Available at: https://github.com/HurleyWong/AssignmentList.

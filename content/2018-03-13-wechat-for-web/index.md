@@ -20,4 +20,4 @@ excerpt: 基于 JSP 开发的局域网仿微信网页版聊天系统，可以实
 
 ## Source Code
 
-Available at: https://github.com/HurleyJames/WeChatforWeb.
+Available at: https://github.com/HurleyWong/WeChatforWeb.

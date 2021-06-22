@@ -15,7 +15,7 @@ module.exports = {
     tag: 'tags',
   },
   social: {
-    github: 'https://github.com/HurleyJames',
+    github: 'https://github.com/HurleyWong',
     facebook: 'https://www.facebook.com/profile.php?id=100014949587803',
     twitter: 'https://twitter.com/HurleyHuang23',
     instagram: 'https://www.instagram.com/hurleyhuang/',

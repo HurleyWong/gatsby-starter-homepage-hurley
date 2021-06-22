@@ -26,12 +26,12 @@ excerpt: 技术岗校招面经（Android / Java 方向）| Campus Recruitment In
 
 ## ✏️ 参与开发
 
-由于本人水平有限，本文档内容如有任何错误，欢迎提出 [Issue](https://github.com/HurleyJames/interview-vuepress/issues) 或者进行`Pull Request`。本文档遵循 MIT 协议，如果转载请注明出处。
+由于本人水平有限，本文档内容如有任何错误，欢迎提出 [Issue](https://github.com/HurleyWong/interview-vuepress/issues) 或者进行`Pull Request`。本文档遵循 MIT 协议，如果转载请注明出处。
 
 
 ```shell
 // 克隆本仓库
-git clone https://github.com/HurleyJames/interview-vuepress.git
+git clone https://github.com/HurleyWong/interview-vuepress.git
 
 // 进入文件夹
 cd interview-vuepress
@@ -45,4 +45,4 @@ npm run docs:dev
 
 ## Source Code
 
-Available at: https://github.com/HurleyJames/interview-vuepress.
+Available at: https://github.com/HurleyWong/interview-vuepress.

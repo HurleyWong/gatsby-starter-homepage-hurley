@@ -33,4 +33,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Source Code
 
-Available at: https://github.com/HurleyJames/tailwind-vue-components.
+Available at: https://github.com/HurleyWong/tailwind-vue-components.
