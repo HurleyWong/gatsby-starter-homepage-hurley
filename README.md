@@ -5,12 +5,12 @@
     <h2 align="center">Hurley Huang</h2>
   </a>
 </p> 
-<p align="center">Gatsby's Hurley Homepage template</p>
+<p align="center">Hurley's Gatsby Homepage Template</p>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d897ed53-0be7-4da8-bfd1-b156c8896cef/deploy-status)](https://app.netlify.com/sites/hurleyhuang/deploys)
 ![GitHub](https://img.shields.io/github/license/anuraghazra/anuraghazra.github.io)
 
-![Site Preview](https://i.loli.net/2021/02/21/BU7pQGD18vzLsT4.png)
+![Site Preview](https://i.loli.net/2021/06/23/qAoCDuN1VnblS7B.png)
 
 This homepage is based on the [source code](https://github.com/rolwin100/rolwinreevan_gatsby_blog) of [RolwinReevan's blog](https://rolwinreevan.com/). I am very grateful 🙏 that he provided such an excellent template.
 
@@ -23,7 +23,7 @@ This homepage is based on the [source code](https://github.com/rolwin100/rolwinr
     Fork the repository, then clone the project and install the dependencies
 
     ```shell
-    git clone https://github.com/HurleyJames/gatsby-starter-hurley.git
+    git clone https://github.com/HurleyWong/gatsby-starter-homepage-hurley.git
     ```
 
 2.  **Install dependencies**
@@ -31,7 +31,7 @@ This homepage is based on the [source code](https://github.com/rolwin100/rolwinr
     cd into the directory
 
     ```shell
-    cd gatsby-starter-hurley
+    cd gatsby-starter-homepage-hurley
     ```
     install the dependencies
 
