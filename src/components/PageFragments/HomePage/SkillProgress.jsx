@@ -40,7 +40,7 @@ const SkillsProgress = () => (
         />
         <ProgressBar
           percent={30}
-          text="Swift"
+          text="SQL"
         />
       </Col>
     </Row>

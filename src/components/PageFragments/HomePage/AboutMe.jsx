@@ -19,7 +19,7 @@ const AboutMe = () => {
           title="About"
           description={description}
           path=""
-          keywords={['Hurley', 'Huang', 'China', 'Software Engineer', 'Java', 'Android', 'Leeds', 'NCHU']}
+          keywords={['Hurley', 'China', 'Software Engineer', 'Java', 'Android', 'Leeds', 'NCHU']}
         />
         <h1 className="titleSeparate">About Me</h1>
         <p dangerouslySetInnerHTML={domHtml(pageText.paraOne)} />
