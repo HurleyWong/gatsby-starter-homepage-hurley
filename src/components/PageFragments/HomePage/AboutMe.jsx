@@ -9,6 +9,7 @@ const pageText = {
   paraTwo: '💼 <a href="https://portfolio.withh.life">Portfolio</a> / 👨🏻‍💻 <a href="https://blog.withh.life/">Blog</a> / 🏖 <a href="https://soul.withh.life/">Soul</a> / 📝 <a href="https://notes.withh.life/">Notes</a> / 📦 <a href="https://interview.withh.life/">Interview</a>',
   paraThree: 'A member of 🇬🇧 <a href="https://www.leeds.ac.uk/">University of Leeds</a> Alumni, <i><a href="https://courses.leeds.ac.uk/i537/advanced-computer-science-artificial-intelligence-msc">MSc in Advanced Computer Science (Artificial Intelligence)</a></i>.',
   paraFour: 'Love the <b>mobile development</b>, the <b>blockchain</b> and the <b>distributed systems</b>, hope to be a full-stack coder.',
+  paraFive: 'Currently working as a <b>data developer(data model | data warehousing｜ETL | scheduling)</b> in the IT department of a bank.',
 };
 const AboutMe = () => {
   const description = `${pageText.paraOne} ${stripTags(pageText.paraTwo)} ${stripTags(pageText.paraThree)} ${stripTags(pageText.paraFour)}`;
@@ -26,6 +27,7 @@ const AboutMe = () => {
         <p dangerouslySetInnerHTML={domHtml(pageText.paraTwo)} />
         <p dangerouslySetInnerHTML={domHtml(pageText.paraThree)} />
         <p dangerouslySetInnerHTML={domHtml(pageText.paraFour)} />
+        <p dangerouslySetInnerHTML={domHtml(pageText.paraFive)} />
       </div>
       <Row gutter={[20, 20]}>
         <Col xs={24} sm={24} md={12} lg={8}>
@@ -34,7 +36,7 @@ const AboutMe = () => {
             height={60}
             alt="location image"
             textH4="Born and bought up in"
-            textH3="JiangXi, China"
+            textH3="China"
           />
         </Col>
         <Col xs={24} sm={24} md={12} lg={8}>
