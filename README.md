@@ -1,8 +1,8 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-  <a href="https://withh.life/">
+  <a href="https://hurleywong.com/">
     <img alt="Gatsby" src="https://i.loli.net/2021/02/21/pmOA5wLDnsgktUc.jpg" width="100" />
-    <h2 align="center">Hurley Huang</h2>
+    <h2 align="center">HurleyWong</h2>
   </a>
 </p> 
 <p align="center">Hurley's Gatsby Homepage Template</p>
