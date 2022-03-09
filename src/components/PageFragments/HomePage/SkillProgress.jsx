@@ -17,7 +17,7 @@ const SkillsProgress = () => (
           text="Python"
         />
         <ProgressBar
-          percent={50}
+          percent={70}
           text="SQL"
         />
         <ProgressBar

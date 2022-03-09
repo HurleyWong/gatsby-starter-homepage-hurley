@@ -6,7 +6,7 @@ import SEO from '../../Seo';
 
 const pageText = {
   paraOne: 'Hey <b>&nbsp;</b> 👋 <b>&nbsp;</b> I\'m <b>Hurley Huang</b>! This is my Homepage.',
-  paraTwo: '💼 <a href="https://portfolio.withh.life">Portfolio</a> / 👨🏻‍💻 <a href="https://blog.withh.life/">Blog</a> / 🏖 <a href="https://soul.withh.life/">Soul</a> / 📝 <a href="https://notes.withh.life/">Notes</a> / 📦 <a href="https://interview.withh.life/">Interview</a>',
+  paraTwo: '💼 <a href="https://portfolio.hurleywong.com">Portfolio</a> / 👨🏻‍💻 <a href="https://blog.hurleywong.com/">Blog</a> / 🏖 <a href="https://soul.hurleywong.com/">Soul</a> / 📝 <a href="https://notes.hurleywong.com/">Notes</a> / 📦 <a href="https://interview.hurleywong.com/">Interview</a>',
   paraThree: 'A member of 🇬🇧 <a href="https://www.leeds.ac.uk/">University of Leeds</a> Alumni, <i><a href="https://courses.leeds.ac.uk/i537/advanced-computer-science-artificial-intelligence-msc">MSc in Advanced Computer Science (Artificial Intelligence)</a></i>.',
   paraFour: 'Love the <b>mobile development</b>, the <b>blockchain</b> and the <b>distributed systems</b>, hope to be a full-stack coder.',
   paraFive: 'Currently working as a <b>data developer(data model | data warehousing｜ETL | scheduling)</b> in the IT department of a bank.',
