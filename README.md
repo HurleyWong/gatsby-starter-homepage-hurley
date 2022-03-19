@@ -1,6 +1,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-  <a href="https://hurleywong.com/">
+  <a href="https://archive-hurleyhuang.netlify.app/">
     <img alt="Gatsby" src="https://i.loli.net/2021/02/21/pmOA5wLDnsgktUc.jpg" width="100" />
     <h2 align="center">HurleyWong</h2>
   </a>
